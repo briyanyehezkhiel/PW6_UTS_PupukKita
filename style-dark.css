@@ -12,6 +12,7 @@ body.dark {
   color: white;
 }
 
+
 /* Atau jika Anda ingin mengubah seluruh latar belakang elemen main menjadi hitam, tambahkan aturan ini: */
 .dark main {
   background-color: black; /* Ubah warna latar belakang main menjadi hitam */
